@@ -101,6 +101,6 @@ pip install biopython pandas numpy matplotlib plotly beautifulsoup4
 * Disable sleep mode while scraping
 * Ensure a stable internet connection
 
-## License
+## Academic Project Disclaimer
 
-This project is for **academic and educational purposes only**.
+This project was completed as part of graduate‑level coursework and is intended solely for academic, educational, and methodological demonstration. All analyses, code, and results are for learning and research practice only and should not be used for professional, clinical, or real‑world decision‑making.
