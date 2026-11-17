@@ -1,0 +1,14 @@
+pandas
+numpy
+
+beautifulsoup4
+requests
+
+lxml
+
+sqlite3-api
+
+jupyter
+notebook
+
+openpyxl
