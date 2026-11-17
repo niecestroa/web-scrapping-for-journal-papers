@@ -6,12 +6,45 @@ This project analyzes HIV-related publications indexed in **PubMed** between **J
 
 The project was developed from October 2023 to December 2023.
 
+---
+
+## Installation
+
+```bash
+git clone https://github.com/niecestroa/web-scrapping-for-journal-papers.git
+
+cd web-scrapping-for-journal-papers
+
+pip install -r requirements.txt
+```
+
+## Skills Demonstrated
+
+- Web Scraping
+- HTML Parsing
+- BeautifulSoup
+- Research Automation
+- Literature Review Workflows
+- Data Extraction
+- Journal Metadata Collection
+- Data Cleaning
+- Data Processing
+- SQLite Databases
+- Python Programming
+- Pandas
+- Reproducible Research
+- Automation Scripting
+
+---
+
 ## Authors
 
 * Aaron Niecestro
 * Jack Mittenthal
 * Yukuan Pan
 * Jung Yang
+
+---
 
 ## Project Workflow
 
@@ -37,6 +70,8 @@ The project was developed from October 2023 to December 2023.
    * Summary statistics
    * Bar chart and time-series trend analysis
 
+---
+
 ## Technologies Used
 
 * **Python**
@@ -52,6 +87,8 @@ The project was developed from October 2023 to December 2023.
   * BeautifulSoup
   * sqlite3
 
+---
+
 ## Key Results
 
 * **Total publications:** 5,540
@@ -60,6 +97,8 @@ The project was developed from October 2023 to December 2023.
 * **Lowest month:** January (529 publications)
 
 Publication activity increased early in the year, remained consistently above average through mid-2020, and declined slightly toward August.
+
+---
 
 ## How to Run the Project
 
@@ -95,12 +134,20 @@ pip install biopython pandas numpy matplotlib plotly beautifulsoup4
 * Open `Visualization.ipynb`
 * Generate bar charts, summary tables, and trend lines
 
+---
+
 ## Notes
 
 * Scraper performance depends on system resources
 * Disable sleep mode while scraping
 * Ensure a stable internet connection
 
+---
+
 ## Academic Project Disclaimer
 
 This project was completed as part of graduate‑level coursework and is intended solely for academic, educational, and methodological demonstration. All analyses, code, and results are for learning and research practice only and should not be used for professional, clinical, or real‑world decision‑making.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
