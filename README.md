@@ -23,17 +23,18 @@ pip install -r requirements.txt
 - Web Scraping
 - HTML Parsing
 - BeautifulSoup
+- SQL Databases
+- SQLite
+- Data Extraction
 - Research Automation
 - Literature Review Workflows
-- Data Extraction
 - Journal Metadata Collection
 - Data Cleaning
 - Data Processing
-- SQLite Databases
+- Automation Scripting
 - Python Programming
 - Pandas
-- Reproducible Research
-- Automation Scripting
+- ETL Fundamentals
 
 ---
 
