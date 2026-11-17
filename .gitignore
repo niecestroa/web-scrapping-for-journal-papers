@@ -2,40 +2,39 @@
 __pycache__/
 *.py[cod]
 
-# Virtual environments
 venv/
 .venv/
 env/
 
-# Jupyter
 .ipynb_checkpoints/
 
 # IDEs
 .vscode/
 .idea/
 
+# Testing
+.pytest_cache/
+.coverage
+
+# Build files
+build/
+dist/
+*.egg-info/
+
 # Environment variables
 .env
-
-# Logs
-*.log
 
 # SQLite databases
 *.db
 *.sqlite
 *.sqlite3
 
-# CSV outputs
+# Outputs
 outputs/
 results/
 
-# Testing
-.pytest_cache/
-
-# Build
-build/
-dist/
-*.egg-info/
+# Logs
+*.log
 
 # OS files
 .DS_Store
